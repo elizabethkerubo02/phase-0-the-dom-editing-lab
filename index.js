@@ -45,4 +45,4 @@ const uli = document.getElementsByTagName("ul")[0];
 const secondChild = uli.querySelector("li:nth-child(2)");
 uli.removeChild(secondChild);
 
-//and to remove whole element we use remove()  uli.remove()
+//and to remove whole element we use remove()  uli.remove()  
